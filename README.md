@@ -7,7 +7,7 @@
 
 **Python · SQL · Tableau · FineBI · Spark · 机器学习**
 
-🌐 在线网页版简历：<https://USERNAME.github.io/resume/>（推送后在仓库 Settings → Pages 开启即可访问）
+🌐 在线网页版简历：<https://fewrfgerwfg.github.io/resume/>
 
 ---
 
@@ -116,9 +116,16 @@
 | `index.html` | 网页版简历，可直接用于 GitHub Pages，也可在浏览器里打印 / 导出 PDF |
 | `README.md` | 本文件，Markdown 版本简历，GitHub 仓库首页直接渲染 |
 
-### 🚀 开启 GitHub Pages
+### 🚀 在线地址
 
-1. 推送本仓库到 GitHub
-2. 进入仓库 **Settings → Pages**
-3. Source 选择 `Deploy from a branch`，Branch 选 `main`、目录选 `/ (root)`
-4. 保存后稍等 1-2 分钟，即可通过 `https://USERNAME.github.io/resume/` 访问在线简历
+本仓库已开启 GitHub Pages（`main` 分支根目录部署），在线简历地址：
+
+**<https://fewrfgerwfg.github.io/resume/>**
+
+推送 `main` 分支后会自动重新发布，通常 1 分钟左右生效。
+
+> 如需自定义域名，可在仓库 **Settings → Pages → Custom domain** 中绑定。
+
+### 🖨️ 想导出 PDF？
+
+打开在线简历页面 → 浏览器 `Ctrl / ⌘ + P` → 目标选「另存为 PDF」→ 勾选「背景图形」，即可得到带完整排版的简历 PDF。
